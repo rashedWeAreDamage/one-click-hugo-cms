@@ -70,7 +70,7 @@ collections: # A list of collections the CMS should be able to edit
 
       - file: "site/content/hello/_index.md"
         label: "Hello Page"
-        name: "Hello"
+        name: "hello"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
