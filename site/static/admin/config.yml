@@ -75,9 +75,9 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Logo, name: logo, widget: image}
           - {label: Body, name: body, widget: markdown}
-      - file: "site/content/blog/_index.md"
-        label: "Blog Page"
-        name: "blog"
+      - file: "site/content/services/_index.md"
+        label: "Service Page"
+        name: "service"
         fields:
             - {label: Title, name: title, widget: string}
             - {label: Logo, name: logo, widget: image}
