@@ -1,6 +1,5 @@
 ---
 title: Our Coffee service
-type: service
+logo: /img/about-reinvest-profits.jpg
 ---
-
-
+Some text to render mah
