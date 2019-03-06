@@ -1,6 +1,5 @@
 ---
 title: Our Coffee service
-type: service
+Image: /img/about-jumbotron.jpg
 ---
-
-
+Some text to render mah
