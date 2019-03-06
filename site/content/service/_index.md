@@ -1,5 +1,5 @@
 ---
 title: Our Coffee service
-logo: /img/about-reinvest-profits.jpg
+Image: /img/about-jumbotron.jpg
 ---
 Some text to render mah
